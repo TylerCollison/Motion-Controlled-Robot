@@ -1,0 +1,5 @@
+C:\Users\Tyler\Microsoft Robotics Dev Studio 4\bin\MyTutorial1.Y2013.M11.dll
+C:\Users\Tyler\Microsoft Robotics Dev Studio 4\bin\MyTutorial1.Y2013.M11.pdb
+C:\Users\Tyler\Microsoft Robotics Dev Studio 4\samples\MyTutorial1\obj\Debug\MyTutorial1.csprojResolveAssemblyReference.cache
+C:\Users\Tyler\Microsoft Robotics Dev Studio 4\samples\MyTutorial1\obj\Debug\MyTutorial1.Y2013.M11.dll
+C:\Users\Tyler\Microsoft Robotics Dev Studio 4\samples\MyTutorial1\obj\Debug\MyTutorial1.Y2013.M11.pdb

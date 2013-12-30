@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ReferencePath>C:\Users\Tyler\Microsoft Robotics Dev Studio 4\bin\</ReferencePath>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <StartWorkingDirectory>C:\Users\Tyler\Microsoft Robotics Dev Studio 4\</StartWorkingDirectory>
+    <StartAction>Program</StartAction>
+    <StartProgram>C:\Users\Tyler\Microsoft Robotics Dev Studio 4\bin\dsshost.exe</StartProgram>
+    <StartArguments>/port:50000 /tcpport:50001 /manifest:"samples\MyTutorial1/MyTutorial1.manifest.xml" -manifest:"samples\config\LEGO.NXT.TriBot.manifest.xml"</StartArguments>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <StartWorkingDirectory>C:\Users\Tyler\Microsoft Robotics Dev Studio 4\</StartWorkingDirectory>
+    <StartAction>Program</StartAction>
+    <StartProgram>C:\Users\Tyler\Microsoft Robotics Dev Studio 4\bin\dsshost.exe</StartProgram>
+    <StartArguments>/port:50000 /tcpport:50001 /manifest:"samples\MyTutorial1/MyTutorial1.manifest.xml" -manifest:"samples\config\LEGO.NXT.TriBot.manifest.xml"</StartArguments>
+  </PropertyGroup>
+</Project>
